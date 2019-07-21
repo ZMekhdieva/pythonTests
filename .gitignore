@@ -1,0 +1,7 @@
+.idea/*
+.cache
+*.pyc
+.idea/workspace.xml
+tests/Scenario_1/debug.log
+/tests/Scenario_1/.cache/
+/tests/Scenario_1/debug.log

@@ -1,0 +1,8 @@
+selenium
+pytest==2.9.0
+seleniumwrapper
+requests
+py-zabbix
+python-jenkins
+allure-python-commons==2.5.5
+allure-pytest=2.5.5
